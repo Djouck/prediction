@@ -1,0 +1,131 @@
+Case ID,Activity,Resource,Complete Timestamp,Variant,Variant index,variant,variant-index,creator,lifecycle:transition,workgroup,Resource,Activity
+Case 1,START,artificial,2012-10-09 14:50:16.999,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,,,
+Case 1,Assign seriousness,Value 1,2012-10-09 14:50:16.999,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 1,Assign seriousness
+Case 1,Take in charge ticket,Value 1,2012-10-09 14:51:01.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 1,Take in charge ticket
+Case 1,Take in charge ticket,Value 1,2012-10-12 15:02:56.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 2,Take in charge ticket
+Case 1,Resolve ticket,Value 1,2012-10-25 11:54:26.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 1,Resolve ticket
+Case 1,Closed,Value 1,2012-11-09 12:54:39.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 3,Closed
+Case 1,END,artificial,2012-11-09 12:54:39.001,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,,,
+Case 2,START,artificial,2012-04-03 08:55:37.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 2,Assign seriousness,Value 1,2012-04-03 08:55:37.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Assign seriousness
+Case 2,Take in charge ticket,Value 1,2012-04-03 08:55:53.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Take in charge ticket
+Case 2,Resolve ticket,Value 1,2012-04-05 09:15:52.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Resolve ticket
+Case 2,Closed,Value 1,2012-05-19 09:00:28.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 2,END,artificial,2012-05-19 09:00:28.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 3,START,artificial,2010-10-29 10:14:05.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 3,Assign seriousness,Value 1,2010-10-29 10:14:05.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 6,Assign seriousness
+Case 3,Take in charge ticket,Value 1,2010-11-03 16:16:11.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 7,Take in charge ticket
+Case 3,Resolve ticket,Value 1,2010-11-03 16:21:17.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 7,Resolve ticket
+Case 3,Closed,Value 1,2010-11-30 11:20:18.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 3,END,artificial,2010-11-30 11:20:18.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 4,START,artificial,2010-12-15 14:31:52.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 4,Assign seriousness,Value 1,2010-12-15 14:31:52.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 8,Assign seriousness
+Case 4,Take in charge ticket,Value 1,2010-12-16 08:01:07.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Take in charge ticket
+Case 4,Resolve ticket,Value 1,2010-12-16 08:08:19.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Resolve ticket
+Case 4,Closed,Value 1,2011-02-12 14:40:42.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 4,END,artificial,2011-02-12 14:40:42.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 5,START,artificial,2012-04-03 13:08:31.999,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,,,
+Case 5,Assign seriousness,Value 1,2012-04-03 13:08:31.999,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,Value 1,Value 9,Assign seriousness
+Case 5,Take in charge ticket,Value 1,2012-04-03 13:45:33.000,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,Value 1,Value 10,Take in charge ticket
+Case 5,Resolve ticket,Value 1,2012-04-03 13:47:22.000,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,Value 1,Value 10,Resolve ticket
+Case 5,Take in charge ticket,Value 1,2012-04-03 14:15:02.000,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,Value 1,Value 10,Take in charge ticket
+Case 5,Resolve ticket,Value 1,2012-04-03 16:07:28.000,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,Value 1,Value 10,Resolve ticket
+Case 5,Closed,Value 1,2012-05-25 13:10:28.000,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 5,END,artificial,2012-05-25 13:10:28.001,Variant 9,9,Variant 9,9,Fluxicon Disco,complete,,,
+Case 6,START,artificial,2011-10-25 15:13:57.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 6,Assign seriousness,Value 1,2011-10-25 15:13:57.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Assign seriousness
+Case 6,Take in charge ticket,Value 1,2011-10-25 15:58:55.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Take in charge ticket
+Case 6,Resolve ticket,Value 1,2011-10-26 09:54:46.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Resolve ticket
+Case 6,Closed,Value 1,2011-12-10 16:20:56.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 6,END,artificial,2011-12-10 16:20:56.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 7,START,artificial,2013-11-06 10:47:34.999,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,,,
+Case 7,Assign seriousness,Value 2,2013-11-06 10:47:34.999,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,Value 2,Value 1,Assign seriousness
+Case 7,Assign seriousness,Value 2,2013-11-06 10:48:53.000,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,Value 2,Value 1,Assign seriousness
+Case 7,Assign seriousness,Value 2,2013-11-22 08:00:08.000,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,Value 2,Value 2,Assign seriousness
+Case 7,Take in charge ticket,Value 2,2013-11-25 08:18:07.000,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,Value 2,Value 11,Take in charge ticket
+Case 7,Resolve ticket,Value 2,2013-11-25 08:57:19.000,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,Value 2,Value 11,Resolve ticket
+Case 7,Closed,Value 2,2013-12-10 08:57:37.000,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,Value 2,Value 3,Closed
+Case 7,END,artificial,2013-12-10 08:57:37.001,Variant 23,23,Variant 23,23,Fluxicon Disco,complete,,,
+Case 8,START,artificial,2012-07-05 08:30:31.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 8,Assign seriousness,Value 2,2012-07-05 08:30:31.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 2,Value 1,Assign seriousness
+Case 8,Take in charge ticket,Value 2,2012-07-05 09:25:45.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 2,Value 6,Take in charge ticket
+Case 8,Resolve ticket,Value 2,2012-07-05 09:44:46.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 2,Value 6,Resolve ticket
+Case 8,Closed,Value 2,2012-09-02 08:40:27.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 2,Value 5,Closed
+Case 8,END,artificial,2012-09-02 08:40:27.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 9,START,artificial,2010-05-07 13:02:20.999,Variant 7,7,Variant 7,7,Fluxicon Disco,complete,,,
+Case 9,Insert ticket,Value 1,2010-05-07 13:02:20.999,Variant 7,7,Variant 7,7,Fluxicon Disco,complete,Value 1,Value 12,Insert ticket
+Case 9,Assign seriousness,Value 1,2010-05-07 13:02:34.000,Variant 7,7,Variant 7,7,Fluxicon Disco,complete,Value 1,Value 12,Assign seriousness
+Case 9,Take in charge ticket,Value 1,2010-05-24 10:26:28.000,Variant 7,7,Variant 7,7,Fluxicon Disco,complete,Value 1,Value 6,Take in charge ticket
+Case 9,Resolve ticket,Value 1,2010-05-25 15:35:44.000,Variant 7,7,Variant 7,7,Fluxicon Disco,complete,Value 1,Value 12,Resolve ticket
+Case 9,Closed,Value 1,2010-06-09 15:35:56.000,Variant 7,7,Variant 7,7,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 9,END,artificial,2010-06-09 15:35:56.001,Variant 7,7,Variant 7,7,Fluxicon Disco,complete,,,
+Case 10,START,artificial,2010-02-10 08:50:19.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 10,Assign seriousness,Value 3,2010-02-10 08:50:19.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 3,Value 2,Assign seriousness
+Case 10,Take in charge ticket,Value 3,2010-03-19 08:47:06.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 3,Value 2,Take in charge ticket
+Case 10,Resolve ticket,Value 3,2010-03-19 08:47:13.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 3,Value 2,Resolve ticket
+Case 10,Closed,Value 3,2010-04-03 07:47:38.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 3,Value 5,Closed
+Case 10,END,artificial,2010-04-03 07:47:38.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 11,START,artificial,2011-12-21 15:24:40.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 11,Assign seriousness,Value 1,2011-12-21 15:24:40.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Assign seriousness
+Case 11,Take in charge ticket,Value 1,2011-12-21 15:25:34.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Take in charge ticket
+Case 11,Resolve ticket,Value 1,2011-12-22 09:55:43.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Resolve ticket
+Case 11,Closed,Value 1,2012-01-21 15:30:31.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 11,END,artificial,2012-01-21 15:30:31.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 12,START,artificial,2013-03-18 10:47:33.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 12,Assign seriousness,Value 1,2013-03-18 10:47:33.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Assign seriousness
+Case 12,Take in charge ticket,Value 1,2013-03-18 15:03:49.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Take in charge ticket
+Case 12,Resolve ticket,Value 1,2013-04-03 07:13:38.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Resolve ticket
+Case 12,Closed,Value 1,2013-04-18 07:13:53.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 3,Closed
+Case 12,END,artificial,2013-04-18 07:13:53.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 13,START,artificial,2012-12-17 09:47:48.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 13,Assign seriousness,Value 1,2012-12-17 09:47:48.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Assign seriousness
+Case 13,Take in charge ticket,Value 1,2013-01-02 09:22:43.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Take in charge ticket
+Case 13,Resolve ticket,Value 1,2013-01-04 10:29:36.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 4,Resolve ticket
+Case 13,Closed,Value 1,2013-01-19 10:29:51.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 3,Closed
+Case 13,END,artificial,2013-01-19 10:29:51.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 14,START,artificial,2011-07-05 13:47:07.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 14,Assign seriousness,Value 1,2011-07-05 13:47:07.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 13,Assign seriousness
+Case 14,Take in charge ticket,Value 1,2011-07-05 13:47:22.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 13,Take in charge ticket
+Case 14,Resolve ticket,Value 1,2011-07-05 13:52:37.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 13,Resolve ticket
+Case 14,Closed,Value 1,2011-08-05 13:50:21.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 14,END,artificial,2011-08-05 13:50:21.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 15,START,artificial,2013-02-20 09:58:26.999,Variant 4,4,Variant 4,4,Fluxicon Disco,complete,,,
+Case 15,Assign seriousness,Value 1,2013-02-20 09:58:26.999,Variant 4,4,Variant 4,4,Fluxicon Disco,complete,Value 1,Value 2,Assign seriousness
+Case 15,Assign seriousness,Value 1,2013-03-08 08:25:42.000,Variant 4,4,Variant 4,4,Fluxicon Disco,complete,Value 1,Value 2,Assign seriousness
+Case 15,Take in charge ticket,Value 1,2013-03-08 08:30:43.000,Variant 4,4,Variant 4,4,Fluxicon Disco,complete,Value 1,Value 9,Take in charge ticket
+Case 15,Resolve ticket,Value 1,2013-03-08 08:34:08.000,Variant 4,4,Variant 4,4,Fluxicon Disco,complete,Value 1,Value 9,Resolve ticket
+Case 15,Closed,Value 1,2013-03-23 08:34:25.000,Variant 4,4,Variant 4,4,Fluxicon Disco,complete,Value 1,Value 3,Closed
+Case 15,END,artificial,2013-03-23 08:34:25.001,Variant 4,4,Variant 4,4,Fluxicon Disco,complete,,,
+Case 16,START,artificial,2012-02-22 14:16:51.999,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,,,
+Case 16,Assign seriousness,Value 1,2012-02-22 14:16:51.999,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 1,Assign seriousness
+Case 16,Take in charge ticket,Value 1,2012-02-22 16:14:07.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 9,Take in charge ticket
+Case 16,Take in charge ticket,Value 1,2012-02-22 16:23:57.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 1,Take in charge ticket
+Case 16,Resolve ticket,Value 1,2012-02-23 09:47:38.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 9,Resolve ticket
+Case 16,Closed,Value 1,2012-03-24 14:20:19.000,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 16,END,artificial,2012-03-24 14:20:19.001,Variant 12,12,Variant 12,12,Fluxicon Disco,complete,,,
+Case 17,START,artificial,2011-10-14 07:10:46.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 17,Assign seriousness,Value 1,2011-10-14 07:10:46.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 1,Assign seriousness
+Case 17,Take in charge ticket,Value 1,2011-11-02 16:17:52.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Take in charge ticket
+Case 17,Resolve ticket,Value 1,2011-11-09 13:31:37.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Resolve ticket
+Case 17,Closed,Value 1,2011-11-24 15:57:55.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 17,END,artificial,2011-11-24 15:57:55.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 18,START,artificial,2013-03-01 16:06:10.999,Variant 6,6,Variant 6,6,Fluxicon Disco,complete,,,
+Case 18,Assign seriousness,Value 1,2013-03-01 16:06:10.999,Variant 6,6,Variant 6,6,Fluxicon Disco,complete,Value 1,Value 1,Assign seriousness
+Case 18,Take in charge ticket,Value 1,2013-03-18 14:04:03.000,Variant 6,6,Variant 6,6,Fluxicon Disco,complete,Value 1,Value 1,Take in charge ticket
+Case 18,Resolve ticket,Value 1,2013-03-19 10:22:40.000,Variant 6,6,Variant 6,6,Fluxicon Disco,complete,Value 1,Value 1,Resolve ticket
+Case 18,Resolve ticket,Value 1,2013-03-19 10:22:40.000,Variant 6,6,Variant 6,6,Fluxicon Disco,complete,Value 1,Value 1,Resolve ticket
+Case 18,Closed,Value 1,2013-04-03 09:23:01.000,Variant 6,6,Variant 6,6,Fluxicon Disco,complete,Value 1,Value 3,Closed
+Case 18,END,artificial,2013-04-03 09:23:01.001,Variant 6,6,Variant 6,6,Fluxicon Disco,complete,,,
+Case 19,START,artificial,2010-07-07 07:54:03.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 19,Assign seriousness,Value 1,2010-07-07 07:54:03.999,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 2,Assign seriousness
+Case 19,Take in charge ticket,Value 1,2010-07-09 10:10:52.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 7,Take in charge ticket
+Case 19,Resolve ticket,Value 1,2010-07-09 10:11:18.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 7,Resolve ticket
+Case 19,Closed,Value 1,2010-08-07 08:00:22.000,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,Value 1,Value 5,Closed
+Case 19,END,artificial,2010-08-07 08:00:22.001,Variant 1,1,Variant 1,1,Fluxicon Disco,complete,,,
+Case 20,START,artificial,2013-05-09 07:10:36.999,Variant 2,2,Variant 2,2,Fluxicon Disco,complete,,,
+Case 20,Assign seriousness,Value 1,2013-05-09 07:10:36.999,Variant 2,2,Variant 2,2,Fluxicon Disco,complete,Value 1,Value 14,Assign seriousness
+Case 20,Take in charge ticket,Value 1,2013-06-04 13:33:01.000,Variant 2,2,Variant 2,2,Fluxicon Disco,complete,Value 1,Value 9,Take in charge ticket
+Case 20,Wait,Value 1,2013-06-10 09:06:43.000,Variant 2,2,Variant 2,2,Fluxicon Disco,complete,Value 1,Value 9,Wait
+Case 20,Resolve ticket,Value 1,2013-06-19 09:12:02.000,Variant 2,2,Variant 2,2,Fluxicon Disco,complete,Value 1,Value 9,Resolve ticket
+Case 20,Closed,Value 1,2013-07-04 09:12:15.000,Variant 2,2,Variant 2,2,Fluxicon Disco,complete,Value 1,Value 3,Closed
+Case 20,END,artificial,2013-07-04 09:12:15.001,Variant 2,2,Variant 2,2,Fluxicon Disco,complete,,,
