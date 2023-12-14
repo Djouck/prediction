@@ -1,7 +1,6 @@
 import csv
 import pandas as pd
 
-#example
 filename = 'PrepaidTravelCost.csv'
 outputname = 'mapping.csv'
 
