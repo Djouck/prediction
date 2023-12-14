@@ -1,0 +1,11 @@
+v 1 START
+v 2 RequestForPaymentSUBMITTEDbyEMPLOYEE
+v 3 RequestForPaymentREJECTEDbyPRE-APPROVER
+v 4 RequestForPaymentREJECTEDbyEMPLOYEE
+v 5 END
+e 1 2 START__RequestForPaymentSUBMITTEDbyEMPLOYEE
+e 2 3 RequestForPaymentSUBMITTEDbyEMPLOYEE__RequestForPaymentREJECTEDbyPRE-APPROVER
+e 2 4 RequestForPaymentSUBMITTEDbyEMPLOYEE__RequestForPaymentREJECTEDbyEMPLOYEE
+e 3 5 RequestForPaymentREJECTEDbyPRE-APPROVER__END
+e 4 5 RequestForPaymentREJECTEDbyEMPLOYEE__END
+

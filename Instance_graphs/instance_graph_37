@@ -1,0 +1,16 @@
+v 1 START
+v 2 RequestForPaymentSUBMITTEDbyEMPLOYEE
+v 3 RequestForPaymentAPPROVEDbyPRE-APPROVER
+v 4 RequestForPaymentAPPROVEDbySUPERVISOR
+v 5 RequestForPaymentFINAL-APPROVEDbyDIRECTOR
+v 6 RequestPayment
+v 7 PaymentHandled
+v 8 END
+e 1 2 START__RequestForPaymentSUBMITTEDbyEMPLOYEE
+e 2 3 RequestForPaymentSUBMITTEDbyEMPLOYEE__RequestForPaymentAPPROVEDbyPRE-APPROVER
+e 3 4 RequestForPaymentAPPROVEDbyPRE-APPROVER__RequestForPaymentAPPROVEDbySUPERVISOR
+e 4 5 RequestForPaymentAPPROVEDbySUPERVISOR__RequestForPaymentFINAL-APPROVEDbyDIRECTOR
+e 5 6 RequestForPaymentFINAL-APPROVEDbyDIRECTOR__RequestPayment
+e 6 7 RequestPayment__PaymentHandled
+e 7 8 PaymentHandled__END
+

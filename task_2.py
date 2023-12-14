@@ -14,10 +14,11 @@ df = pd.read_csv(fname, delimiter=",", header = 0)
 # Complete Timestamp >> CompleteTimestamp
 df = df.rename(columns={"Case ID": "CaseID", "Complete Timestamp": "CompleteTimestamp"})
 
-#Order the dataset by timestmap
+# Order the dataset by timestmap
 df = df.sort_values(by=['CompleteTimestamp'])
 
 df.loc[df["CaseID"] == "Case 595"]
+
 
 # TODO1
 # classe EVENT per creare un evento con case, nome dell'attività e timestamp
@@ -70,22 +71,11 @@ for r in df.iterrows():
 
     inner_list.append(state)
 
-
-
-    # QUI DA RIVEDERE
-    # print(dCaLE)
-    # df["Status_ALL"] = dCaLE
-    #
-    # if i == 10:
-    #    print(df.loc[df["CaseID"] == "Case 3608"])
-    #    #print(df["Case 3608"]["Status_ALL"])
-    #    rrr
-
     i += 1
 
 print(type(inner_list[7]))
 
-#print(inner_list[24071])
+# print(inner_list[24071])
 df["Status_ALL"] = inner_list
 print(inner_list[0] == inner_list[4])
 print(df[0:20])
