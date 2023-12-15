@@ -32,6 +32,7 @@ def sub_second(date_object):
 
 input_file_path = 'PrepaidTravelCost.xes'
 output_file_path = 'PrepaidTravelCost.csv'
+outputname = 'mapping.csv'
 # fname = output_file_path
 # Write to Pandas Dataframe
 log = pm4py.read_xes(input_file_path)  # Input Filename
@@ -166,8 +167,21 @@ df["Status_ALL"] = inner_list
 print(inner_list[0] == inner_list[4])
 print(df[0:20])
 
+for i in range(len(df)):
+    print(type(df.loc[i]['Status_ALL']))
+    #print(df.loc[i]['Status_ALL'])
+
+mapping = df[["case:Rfp-id", "case_number_id_graphs"]].drop_duplicates()
+
+status = df['Status_ALL'].tolist()
+prova = status[23]
+print(prova)
+print(type(prova))
+
+for key in prova.keys():
+    print(key)
 
 # Write to CSV
 df.to_csv(output_file_path)
-
+mapping.to_csv(outputname)
 
